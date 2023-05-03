@@ -1,1 +1,2 @@
-It is a hello
+It is a hello.
+And there is no other thing.
